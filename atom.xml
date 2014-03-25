@@ -4,7 +4,7 @@
   <title><![CDATA[Michael Marsh]]></title>
   <link href="http://micmarsh.github.io/atom.xml" rel="self"/>
   <link href="http://micmarsh.github.io/"/>
-  <updated>2014-03-25T17:06:56-04:00</updated>
+  <updated>2014-03-25T17:08:31-04:00</updated>
   <id>http://micmarsh.github.io/</id>
   <author>
     <name><![CDATA[Michael Marsh]]></name>
@@ -18,7 +18,7 @@
     <link href="http://micmarsh.github.io/blog/2014/03/16/hello-world/"/>
     <updated>2014-03-16T20:35:03-04:00</updated>
     <id>http://micmarsh.github.io/blog/2014/03/16/hello-world</id>
-    <content type="html"><![CDATA[<p>Sup homies. I&rsquo;m using octopress now. This site is still very much under construction.</p>
+    <content type="html"><![CDATA[<p>Sup homies. I&rsquo;m using octopress now. This site is still very much under construction. The idea to make a sample post of Tarantino quotes was not my own, unfortunately.</p>
 ]]></content>
   </entry>
   
