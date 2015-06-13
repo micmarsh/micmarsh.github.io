@@ -1,31 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
-    <url>
-        <loc>http://micmarsh.github.io/blog/2012/07/22/intro/</loc>
-        <lastmod>2014-03-16T21:17:25-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://micmarsh.github.io/blog/2012/07/22/the-problem-with-pingdom/</loc>
-        <lastmod>2014-03-16T21:17:25-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://micmarsh.github.io/blog/2014/03/16/hello-world/</loc>
-        <lastmod>2014-03-25T17:08:22-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://micmarsh.github.io/blog/archives/</loc>
-        <lastmod>2014-03-25T17:08:22-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://micmarsh.github.io/robots.txt</loc>
-        <lastmod>2014-03-16T20:23:56-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://micmarsh.github.io/</loc>
-        <lastmod>2014-03-25T17:08:22-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://micmarsh.github.io/about/</loc>
-        <lastmod>2014-03-28T10:16:53-04:00</lastmod>
-    </url>
+<url>
+<loc>
+http://marsh.pw/index.html
+</loc>
+<lastmod>
+2015-06-13
+</lastmod>
+</url>
+<url>
+<loc>
+http://marsh.pw/archives.html
+</loc>
+<lastmod>
+2015-06-13
+</lastmod>
+</url>
+<url>
+<loc>
+http://marsh.pw/posts/2015-06-13-hello-world.html
+</loc>
+<lastmod>
+2015-06-13
+</lastmod>
+</url>
+<url>
+<loc>
+http://marsh.pw/404.html
+</loc>
+<lastmod>
+2015-06-13
+</lastmod>
+</url>
+<url>
+<loc>
+http://marsh.pw/tags/nothing.html
+</loc>
+<lastmod>
+2015-06-13
+</lastmod>
+</url>
+<url>
+<loc>
+http://marsh.pw/tags/filler.html
+</loc>
+<lastmod>
+2015-06-13
+</lastmod>
+</url>
+<url>
+<loc>
+http://marsh.pw/pages/influences.html
+</loc>
+<lastmod>
+2015-06-13
+</lastmod>
+</url>
 </urlset>

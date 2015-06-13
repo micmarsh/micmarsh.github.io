@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+<channel>
+<atom:link href='http://marsh.pw/' rel='self' type='application/rss+xml'/>
+<generator>
+clj-rss
+</generator>
+<title>
+Michael Marsh
+</title>
+<link>
+http://marsh.pw/
+</link>
+<description>
+Professional Internet User
+</description>
+<lastBuildDate>
+Sat, 13 Jun 2015 19:07:20 -0400
+</lastBuildDate>
+<author>
+Michael Marsh
+</author>
+<item>
+<guid>
+http://marsh.pw/posts/2015-06-13-hello-world.html
+</guid>
+<link>
+http://marsh.pw/posts/2015-06-13-hello-world.html
+</link>
+<title>
+Hello World
+</title>
+<description>
+&lt;p&gt;Hello world! This isn't even an &quot;intro&quot; post, but it's something. I'll delete it when I write something better.&lt;/p&gt;
+</description>
+<pubDate>
+Sat, 13 Jun 2015 00:00:00 -0400
+</pubDate>
+<author>
+Michael Marsh
+</author>
+</item>
+</channel>
+</rss>
